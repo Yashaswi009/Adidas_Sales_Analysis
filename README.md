@@ -1,2 +1,5 @@
 # Adidas_Sales_Analysis
-Explored Adidas sales trends to identify opportunities for growth and enhance strategic decision-making.
+## Overview
+### This repository contains analysis of Adidas sales trends, aimed at identifying opportunities for growth and enhancing strategic decision-making. 
+### The analysis was conducted using Excel, leveraging various charts and graphs to visualize sales data effectively.
+
